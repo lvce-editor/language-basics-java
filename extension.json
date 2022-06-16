@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-java",
+  "name": "Language Basics Java",
+  "description": "Provides syntax highlighting and bracket matching in Java files.",
+  "languages": [
+    {
+      "id": "java",
+      "extensions": [".java"],
+      "tokenize": "src/tokenizeJava.js"
+    }
+  ]
+}
