@@ -29,6 +29,7 @@ export const TokenType = {
   KeywordThis: 12,
   Class: 13,
   Comment: 14,
+  FunctionName: 885,
 }
 
 export const TokenMap = {
@@ -47,6 +48,7 @@ export const TokenMap = {
   [TokenType.KeywordThis]: 'KeywordThis',
   [TokenType.Class]: 'Class',
   [TokenType.Comment]: 'Comment',
+  [TokenType.FunctionName]: 'Function',
 }
 
 export const initialLineState = {
@@ -74,6 +76,7 @@ const RE_BLOCK_COMMENT_END = /^\*\//
 const RE_CURLY_OPEN = /^\{/
 const RE_ANYTHING_UNTIL_END = /^.+/s
 const RE_SLASH = /^\//
+const RE_FUNCTION_CALL_NAME = /^[\w]+(?=\s*(\())/
 
 export const hasArrayReturn = true
 
@@ -129,6 +132,9 @@ export const tokenizeLine = (line, lineState) => {
               token = TokenType.Keyword
               break
           }
+        } else if ((next = part.match(RE_FUNCTION_CALL_NAME))) {
+          token = TokenType.FunctionName
+          state = State.TopLevelContent
         } else if ((next = part.match(RE_SLASH))) {
           if ((next = part.match(RE_BLOCK_COMMENT_START))) {
             token = TokenType.Comment
