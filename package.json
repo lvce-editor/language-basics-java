@@ -13,9 +13,9 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.8.7",
-    "typescript": "^5.0.2",
+    "typescript": "^5.0.4",
     "@lvce-editor/package-extension": "^0.0.5",
-    "@lvce-editor/server": "^0.14.0",
+    "@lvce-editor/server": "^0.15.5",
     "@lvce-editor/test-syntax-highlighting": "^0.0.16"
   },
   "prettier": {
