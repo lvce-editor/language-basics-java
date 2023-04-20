@@ -1,0 +1,4 @@
+Numeric
+VariableName
+Keyword
+NewLine
