@@ -2,4 +2,7 @@ Numeric
 VariableName
 Numeric
 VariableName
+Punctuation
+Numeric
+VariableName
 NewLine

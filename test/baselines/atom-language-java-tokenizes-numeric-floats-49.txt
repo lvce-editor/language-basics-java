@@ -1,3 +1,4 @@
+Punctuation
 Numeric
 VariableName
 NewLine

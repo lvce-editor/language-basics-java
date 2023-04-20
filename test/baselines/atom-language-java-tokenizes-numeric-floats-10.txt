@@ -1,4 +1,6 @@
 Numeric
+Punctuation
+Numeric
 VariableName
 Numeric
 VariableName

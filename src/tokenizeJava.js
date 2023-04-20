@@ -59,8 +59,8 @@ const RE_KEYWORD =
   /^(?:_|abstract|assert|boolean|break|byte|case|catch|char|class|const|continue|default|do|double|else|enum|extends|final|finally|float|for|goto|if|implements|import|instanceof|int|interface|long|native|new|package|private|protected|public|return|short|static|super|switch|synchronized|this|throw|throws|transient|try|void|volatile|while)\b/
 
 const RE_WHITESPACE = /^\s+/
-const RE_VARIABLE_NAME = /^[a-zA-Z]+/
-const RE_PUNCTUATION = /^[:,;\{\}\[\]\.=\(\)>\|\-\*]/
+const RE_VARIABLE_NAME = /^[a-zA-Z\_\$]+/
+const RE_PUNCTUATION = /^[:,;\{\}\[\]\.=\(\)>\|\-\*\+\:\<\>]/
 const RE_QUOTE_SINGLE = /^'/
 const RE_QUOTE_DOUBLE = /^"/
 const RE_STRING_SINGLE_QUOTE_CONTENT = /^[^']+/

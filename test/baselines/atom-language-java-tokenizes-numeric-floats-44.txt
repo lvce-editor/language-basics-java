@@ -1,3 +1,5 @@
 Numeric
+Punctuation
+Numeric
 VariableName
 NewLine
