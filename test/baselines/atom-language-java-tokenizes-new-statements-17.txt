@@ -1,0 +1,13 @@
+KeywordNew
+Whitespace
+Function
+Punctuation
+Punctuation
+Whitespace
+Comment
+NewLine
+Whitespace
+Punctuation
+Whitespace
+Punctuation
+NewLine

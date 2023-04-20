@@ -1,0 +1,2 @@
+new Point() // JPanel()
+  { }
