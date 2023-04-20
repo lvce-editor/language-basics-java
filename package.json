@@ -36,8 +36,6 @@
       "atom-language-java-tokenizes-braces-1",
       "atom-language-java-tokenizes-braces-3",
       "atom-language-java-tokenizes-capitalized-variables-1",
-      "atom-language-java-tokenizes-catch-parameter-in-new-line-or-with-a-comment-in-between-1",
-      "atom-language-java-tokenizes-catch-parameter-in-new-line-or-with-a-comment-in-between-2",
       "atom-language-java-tokenizes-class-body-block-initializer-1",
       "atom-language-java-tokenizes-class-fields-1",
       "atom-language-java-tokenizes-class-fields-with-complex-definitions-1",
@@ -78,10 +76,6 @@
       "atom-language-java-tokenizes-hexadecimal-integers-8",
       "atom-language-java-tokenizes-hexadecimal-integers-9",
       "atom-language-java-tokenizes-java-14-record-with-generic-types-as-parameters-1",
-      "atom-language-java-tokenizes-lambda-expressions-1",
-      "atom-language-java-tokenizes-link-javadoc-comment-1",
-      "atom-language-java-tokenizes-list-of-exceptions-in-catch-block-1",
-      "atom-language-java-tokenizes-list-of-exceptions-in-catch-block-2",
       "atom-language-java-tokenizes-method-body-block-initializer-1",
       "atom-language-java-tokenizes-methods-1",
       "atom-language-java-tokenizes-new-statements-12",
@@ -92,7 +86,6 @@
       "atom-language-java-tokenizes-numeric-floats-13",
       "atom-language-java-tokenizes-numeric-floats-14",
       "atom-language-java-tokenizes-numeric-floats-16",
-      "atom-language-java-tokenizes-numeric-floats-17",
       "atom-language-java-tokenizes-numeric-floats-18",
       "atom-language-java-tokenizes-numeric-floats-21",
       "atom-language-java-tokenizes-numeric-floats-22",
@@ -122,18 +115,11 @@
       "atom-language-java-tokenizes-octal-literals-9",
       "atom-language-java-tokenizes-param-javadoc-comment-1",
       "atom-language-java-tokenizes-qualified-storage-types-1",
-      "atom-language-java-tokenizes-sealed,-non-sealed,-and-permits-keywords-1",
       "atom-language-java-tokenizes-static-initializer-1",
       "atom-language-java-tokenizes-storage-types-with-underscore-1",
-      "atom-language-java-tokenizes-the-import-keyword-2",
-      "atom-language-java-tokenizes-the-import-keyword-5",
       "atom-language-java-tokenizes-the-import-keyword-7",
-      "atom-language-java-tokenizes-the-import-keyword-8",
-      "atom-language-java-tokenizes-the-import-keyword-9",
-      "atom-language-java-tokenizes-the-package-keyword-4",
       "atom-language-java-tokenizes-the-package-keyword-6",
-      "atom-language-java-tokenizes-variables-in-for-each-loop-1",
-      "atom-language-java-tokenizes-yield-keyword-1"
+      "atom-language-java-tokenizes-variables-in-for-each-loop-1"
     ]
   }
 }
