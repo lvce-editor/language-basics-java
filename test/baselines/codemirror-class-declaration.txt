@@ -1,0 +1,8 @@
+Keyword
+Whitespace
+Class
+Whitespace
+Punctuation
+NewLine
+Punctuation
+NewLine

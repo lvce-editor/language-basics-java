@@ -31,7 +31,12 @@
       "atom-language-java-tokenizes-new-statements-12",
       "atom-language-java-tokenizes-new-statements-13",
       "atom-language-java-tokenizes-new-statements-20",
-      "atom-language-java-tokenizes-new-statements-9"
+      "atom-language-java-tokenizes-new-statements-9",
+      "codemirror-char-escapes",
+      "codemirror-character-literals",
+      "codemirror-standalone-binary-expression",
+      "codemirror-ternary-expressions",
+      "codemirror-wildcard"
     ]
   }
 }
