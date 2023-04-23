@@ -37,7 +37,7 @@ VariableName
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Punctuation
 Whitespace
 VariableName
@@ -59,7 +59,7 @@ VariableName
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Punctuation
 Whitespace
 VariableName

@@ -12,7 +12,7 @@ VariableName
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Punctuation
 Whitespace
 VariableName

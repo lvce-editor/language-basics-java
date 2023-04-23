@@ -6,7 +6,7 @@ const State = {
   TopLevelContent: 1,
   InsideSingleQuoteString: 2,
   InsideDoubleQuoteString: 3,
-  AfterKeywordClass: 4,
+  AfterKeywordBeforeClass: 4,
   InsideBlockComment: 5,
 }
 
@@ -125,8 +125,9 @@ export const tokenizeLine = (line, lineState) => {
               token = TokenType.KeywordThis
               break
             case 'class':
+            case 'extends':
               token = TokenType.Keyword
-              state = State.AfterKeywordClass
+              state = State.AfterKeywordBeforeClass
               break
             default:
               token = TokenType.Keyword
@@ -192,10 +193,10 @@ export const tokenizeLine = (line, lineState) => {
           throw new Error('no')
         }
         break
-      case State.AfterKeywordClass:
+      case State.AfterKeywordBeforeClass:
         if ((next = part.match(RE_WHITESPACE))) {
           token = TokenType.Whitespace
-          state = State.AfterKeywordClass
+          state = State.AfterKeywordBeforeClass
         } else if ((next = part.match(RE_VARIABLE_NAME))) {
           token = TokenType.Class
           state = State.TopLevelContent
