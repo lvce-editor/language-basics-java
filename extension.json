@@ -6,7 +6,8 @@
     {
       "id": "java",
       "extensions": [".java"],
-      "tokenize": "src/tokenizeJava.js"
+      "tokenize": "src/tokenizeJava.js",
+      "configuration": "./languageConfiguration.json"
     }
   ]
 }
