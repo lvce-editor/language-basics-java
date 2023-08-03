@@ -1,0 +1,10 @@
+Attribute
+NewLine
+Keyword
+Whitespace
+Keyword
+Whitespace
+Class
+Whitespace
+Punctuation
+Punctuation
