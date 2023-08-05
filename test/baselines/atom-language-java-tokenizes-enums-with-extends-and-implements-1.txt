@@ -1,4 +1,4 @@
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -10,7 +10,7 @@ Whitespace
 VariableName
 Numeric
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Punctuation
@@ -43,7 +43,7 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Punctuation
@@ -62,7 +62,7 @@ Whitespace
 VariableName
 Numeric
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -94,7 +94,7 @@ Whitespace
 VariableName
 Numeric
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Punctuation

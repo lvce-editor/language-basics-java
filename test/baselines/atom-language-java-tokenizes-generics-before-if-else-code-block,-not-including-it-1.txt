@@ -28,7 +28,7 @@ VariableName
 Punctuation
 VariableName
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Punctuation

@@ -1,4 +1,4 @@
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -9,7 +9,7 @@ Whitespace
 Comment
 NewLine
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -52,7 +52,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

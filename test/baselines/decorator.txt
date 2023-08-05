@@ -2,7 +2,7 @@ Attribute
 NewLine
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

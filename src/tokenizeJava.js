@@ -31,6 +31,7 @@ export const TokenType = {
   Comment: 14,
   Text: 117,
   FunctionName: 885,
+  KeywordImport: 215,
 }
 
 export const TokenMap = {
@@ -51,6 +52,7 @@ export const TokenMap = {
   [TokenType.Comment]: 'Comment',
   [TokenType.FunctionName]: 'Function',
   [TokenType.Text]: 'Text',
+  [TokenType.KeywordImport]: 'KeywordImport',
 }
 
 export const initialLineState = {
@@ -131,6 +133,8 @@ export const tokenizeLine = (line, lineState) => {
             case 'extends':
               token = TokenType.Keyword
               state = State.AfterKeywordBeforeClass
+            case 'import':
+              token = TokenType.KeywordImport
               break
             default:
               token = TokenType.Keyword

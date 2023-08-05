@@ -1,6 +1,6 @@
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -11,7 +11,7 @@ NewLine
 NewLine
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -22,11 +22,11 @@ NewLine
 NewLine
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

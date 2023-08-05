@@ -3,7 +3,7 @@ Comment
 Comment
 NewLine
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 NewLine
