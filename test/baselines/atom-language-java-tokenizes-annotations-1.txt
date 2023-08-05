@@ -13,7 +13,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

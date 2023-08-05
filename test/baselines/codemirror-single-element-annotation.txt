@@ -12,7 +12,7 @@ String
 Punctuation
 Punctuation
 NewLine
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

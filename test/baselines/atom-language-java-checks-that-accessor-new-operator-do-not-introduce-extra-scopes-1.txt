@@ -1,6 +1,6 @@
 Keyword
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

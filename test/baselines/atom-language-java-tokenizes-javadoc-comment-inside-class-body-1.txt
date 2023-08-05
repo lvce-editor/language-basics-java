@@ -14,7 +14,7 @@ Punctuation
 NewLine
 NewLine
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace

@@ -2,7 +2,7 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Whitespace
@@ -15,7 +15,7 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Keyword
+KeywordImport
 Whitespace
 Class
 Punctuation
