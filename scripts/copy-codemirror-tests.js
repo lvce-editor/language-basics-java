@@ -7,7 +7,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const root = path.join(__dirname, '..')
 
 const REPO = 'https://github.com/lezer-parser/java'
-const COMMIT = '88aee6a4726dc34fba1372a50a9130f952b8eae1'
+const COMMIT = 'd89968838ccfc8d2a11557d669a8e1bca2f7a8bb'
 
 const getTestName = (line) => {
   return (
