@@ -14,12 +14,21 @@ const getTestName = (line) => {
     'google-web-toolkit-' +
     line
       .toLowerCase()
-      .slice(1)
       .trim()
       .replaceAll(' ', '-')
       .replaceAll('/', '-')
       .replaceAll(',', '')
       .replaceAll('_', '-')
+      .replaceAll('-src-com', '')
+      .replaceAll('.java', '')
+      .replaceAll('-com-google-gwt-sample', '')
+      .replaceAll('-java-com', '')
+      .replaceAll('-google', '')
+      .replaceAll('-dev', '')
+      .replaceAll('-gwt-core', '')
+      .replaceAll('-com', '')
+      .replaceAll('-user', '')
+      .replaceAll('-test-test', 'test')
   )
 }
 
@@ -27,6 +36,9 @@ const getAllTests = async (folder) => {
   const dirents = await readdir(folder, { recursive: true })
   const allTests = []
   for (const dirent of dirents) {
+    if (!dirent.endsWith('.java')) {
+      continue
+    }
     const filePath = `${folder}/${dirent}`
     const fileContent = await readFile(filePath, 'utf8')
     allTests.push({
