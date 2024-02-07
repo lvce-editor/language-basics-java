@@ -25,7 +25,7 @@ NewLine
 Whitespace
 Attribute
 Punctuation
-VariableName
+LanguageConstant
 Punctuation
 NewLine
 Whitespace

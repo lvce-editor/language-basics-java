@@ -27,7 +27,7 @@ Punctuation
 Whitespace
 KeywordControl
 Whitespace
-VariableName
+LanguageConstant
 Punctuation
 NewLine
 Whitespace
