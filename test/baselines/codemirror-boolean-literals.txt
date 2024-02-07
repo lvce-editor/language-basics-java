@@ -1,6 +1,6 @@
-VariableName
+LanguageConstant
 Punctuation
 NewLine
-VariableName
+LanguageConstant
 Punctuation
 NewLine
