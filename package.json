@@ -22,21 +22,5 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
-  },
-  "test-tokenize": {
-    "skip": [
-      "atom-language-java-tokenizes-annotations-with-spaces-1",
-      "atom-language-java-tokenizes-generics-1",
-      "atom-language-java-tokenizes-generics-with-multiple-conditions-in-if-else-code-block-1",
-      "atom-language-java-tokenizes-new-statements-12",
-      "atom-language-java-tokenizes-new-statements-13",
-      "atom-language-java-tokenizes-new-statements-20",
-      "atom-language-java-tokenizes-new-statements-9",
-      "codemirror-char-escapes",
-      "codemirror-character-literals",
-      "codemirror-standalone-binary-expression",
-      "codemirror-ternary-expressions",
-      "codemirror-wildcard"
-    ]
   }
 }
