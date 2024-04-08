@@ -635,7 +635,15 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+VariableName
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 VariableName

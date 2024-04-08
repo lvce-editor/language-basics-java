@@ -134,7 +134,14 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Keyword

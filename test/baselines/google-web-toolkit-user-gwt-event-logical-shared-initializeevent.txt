@@ -151,7 +151,15 @@ KeywordImport
 Whitespace
 Class
 Whitespace
-Text
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+Keyword
+Whitespace
+Function
+Punctuation
 NewLine
 Whitespace
 VariableName

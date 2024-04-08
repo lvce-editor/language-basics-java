@@ -6249,6 +6249,8 @@ String
 Punctuation
 Punctuation
 Punctuation
+Punctuation
+Punctuation
 Text
 NewLine
 Whitespace

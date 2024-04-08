@@ -419,7 +419,9 @@ Punctuation
 Whitespace
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
 NewLine
 Whitespace
 Punctuation

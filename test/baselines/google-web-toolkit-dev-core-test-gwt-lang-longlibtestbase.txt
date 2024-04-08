@@ -9219,7 +9219,11 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+VariableName
+Punctuation
 NewLine
 Whitespace
 VariableName

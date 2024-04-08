@@ -1277,7 +1277,14 @@ VariableName
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+VariableName
+Numeric
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName

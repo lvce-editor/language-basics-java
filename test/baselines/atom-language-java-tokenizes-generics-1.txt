@@ -8,7 +8,16 @@ KeywordImport
 Whitespace
 Class
 Whitespace
-Text
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

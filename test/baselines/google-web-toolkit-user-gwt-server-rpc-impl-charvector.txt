@@ -402,7 +402,16 @@ Punctuation
 Whitespace
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Whitespace
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

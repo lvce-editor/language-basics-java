@@ -82,7 +82,13 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+VariableName
+Numeric
+VariableName
+Punctuation
 NewLine
 Whitespace
 Keyword

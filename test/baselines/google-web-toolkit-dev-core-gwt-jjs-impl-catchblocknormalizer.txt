@@ -589,7 +589,8 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

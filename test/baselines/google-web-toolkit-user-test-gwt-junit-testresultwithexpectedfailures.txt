@@ -375,7 +375,16 @@ Punctuation
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Function
+Punctuation
+VariableName
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Comment

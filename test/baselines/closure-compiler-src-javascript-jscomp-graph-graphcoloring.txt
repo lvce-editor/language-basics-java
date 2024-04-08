@@ -949,7 +949,15 @@ Punctuation
 Whitespace
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 NewLine
 Whitespace
 Text

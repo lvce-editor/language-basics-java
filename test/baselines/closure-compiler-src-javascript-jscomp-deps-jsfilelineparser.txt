@@ -1031,7 +1031,8 @@ Whitespace
 Punctuation
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

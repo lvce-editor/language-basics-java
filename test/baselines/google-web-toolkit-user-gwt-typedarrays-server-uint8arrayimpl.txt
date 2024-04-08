@@ -310,7 +310,13 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+VariableName
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

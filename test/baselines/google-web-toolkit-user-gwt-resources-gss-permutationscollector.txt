@@ -367,7 +367,8 @@ VariableName
 Punctuation
 Class
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName

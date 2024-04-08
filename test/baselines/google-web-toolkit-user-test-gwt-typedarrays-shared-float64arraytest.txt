@@ -690,7 +690,16 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
 NewLine
 Whitespace
 VariableName

@@ -305,6 +305,7 @@ Whitespace
 Punctuation
 String
 Punctuation
+Punctuation
 Text
 NewLine
 Whitespace

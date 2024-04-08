@@ -271,6 +271,12 @@ Whitespace
 Text
 NewLine
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+VariableName
+Whitespace
 Text
 NewLine
 Whitespace

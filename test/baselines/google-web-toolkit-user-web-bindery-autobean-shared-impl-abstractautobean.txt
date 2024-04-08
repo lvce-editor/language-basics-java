@@ -1363,7 +1363,14 @@ Punctuation
 Whitespace
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl
