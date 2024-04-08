@@ -9,7 +9,7 @@ Punctuation
 String
 NewLine
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

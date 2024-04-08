@@ -151,7 +151,7 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 KeywordImport
 NewLine

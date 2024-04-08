@@ -109,7 +109,7 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -120,7 +120,7 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -167,7 +167,7 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -178,7 +178,7 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

@@ -121,7 +121,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
@@ -258,7 +258,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -419,7 +419,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -431,7 +431,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -796,7 +796,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -1310,7 +1310,7 @@ Comment
 Comment
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -1517,7 +1517,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -1668,7 +1668,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -1766,7 +1766,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -2133,7 +2133,7 @@ Comment
 Comment
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -3256,7 +3256,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -3344,7 +3344,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -3596,7 +3596,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -3987,12 +3987,12 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -4033,12 +4033,12 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -4070,7 +4070,7 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -4182,7 +4182,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
@@ -4203,7 +4203,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation

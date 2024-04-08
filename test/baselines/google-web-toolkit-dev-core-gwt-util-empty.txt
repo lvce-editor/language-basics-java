@@ -71,7 +71,7 @@ VariableName
 Punctuation
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -105,7 +105,7 @@ VariableName
 Punctuation
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace

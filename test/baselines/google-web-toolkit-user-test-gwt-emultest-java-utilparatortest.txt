@@ -234,13 +234,13 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Numeric
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Numeric

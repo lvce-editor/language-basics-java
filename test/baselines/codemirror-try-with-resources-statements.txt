@@ -1,7 +1,7 @@
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

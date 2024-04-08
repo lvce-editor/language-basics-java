@@ -2020,7 +2020,7 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation

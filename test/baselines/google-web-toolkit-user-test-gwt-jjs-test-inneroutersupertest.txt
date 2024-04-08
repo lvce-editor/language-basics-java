@@ -306,7 +306,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
@@ -500,7 +500,7 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -522,7 +522,7 @@ Keyword
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -545,7 +545,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
@@ -579,7 +579,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -626,7 +626,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -678,7 +678,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -725,7 +725,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -820,7 +820,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -865,7 +865,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -912,7 +912,7 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

@@ -96,7 +96,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
@@ -185,7 +185,7 @@ Punctuation
 NewLine
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

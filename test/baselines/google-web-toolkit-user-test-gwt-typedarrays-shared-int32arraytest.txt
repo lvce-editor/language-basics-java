@@ -73,7 +73,7 @@ KeywordImport
 Whitespace
 Class
 Numeric
-VariableName
+Class
 Whitespace
 KeywordImport
 Whitespace
@@ -92,7 +92,7 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -113,7 +113,7 @@ Function
 Punctuation
 VariableName
 Numeric
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -185,7 +185,7 @@ Function
 Punctuation
 VariableName
 Numeric
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -460,7 +460,7 @@ Numeric
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -489,7 +489,7 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -506,7 +506,7 @@ NewLine
 Whitespace
 VariableName
 Numeric
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -756,7 +756,7 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -779,7 +779,7 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -802,7 +802,7 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -910,7 +910,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -927,7 +927,7 @@ NewLine
 Whitespace
 VariableName
 Numeric
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace
@@ -1027,7 +1027,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation

@@ -181,13 +181,13 @@ NewLine
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace

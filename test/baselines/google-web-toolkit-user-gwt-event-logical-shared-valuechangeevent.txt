@@ -167,7 +167,7 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 Text
 NewLine
@@ -348,7 +348,7 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 Punctuation
 Punctuation
@@ -359,7 +359,7 @@ Whitespace
 Punctuation
 NewLine
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -444,7 +444,7 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-VariableName
+Class
 Whitespace
 Text
 NewLine
@@ -603,7 +603,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation

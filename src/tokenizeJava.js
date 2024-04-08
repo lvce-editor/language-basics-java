@@ -66,6 +66,7 @@ const RE_KEYWORD =
 
 const RE_WHITESPACE = /^\s+/
 const RE_VARIABLE_NAME = /^[a-zA-Z\_\$]+/
+const RE_VARIABLE_NAME_CLASS = /^[A-Z\_\$][a-zA-Z\_\$]+(?=\s+)/
 const RE_PUNCTUATION = /^[:,;\{\}\[\]\.=\(\)>\|\-\*\+\:\<\>]/
 const RE_QUOTE_SINGLE = /^'/
 const RE_QUOTE_DOUBLE = /^"/
@@ -162,6 +163,9 @@ export const tokenizeLine = (line, lineState) => {
             token = TokenType.Punctuation
             state = State.TopLevelContent
           }
+        } else if ((next = part.match(RE_VARIABLE_NAME_CLASS))) {
+          token = TokenType.Class
+          state = State.TopLevelContent
         } else if ((next = part.match(RE_VARIABLE_NAME))) {
           token = TokenType.VariableName
           state = State.TopLevelContent

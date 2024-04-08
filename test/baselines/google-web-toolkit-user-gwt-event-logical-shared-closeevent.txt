@@ -237,7 +237,7 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 Text
 NewLine
@@ -308,7 +308,7 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-VariableName
+Class
 Whitespace
 Text
 NewLine

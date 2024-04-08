@@ -113,7 +113,7 @@ KeywordImport
 Whitespace
 Class
 Numeric
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine

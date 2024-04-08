@@ -1,6 +1,6 @@
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Punctuation

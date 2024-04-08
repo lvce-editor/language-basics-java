@@ -61,7 +61,7 @@ KeywordImport
 Whitespace
 Class
 Numeric
-VariableName
+Class
 Whitespace
 KeywordImport
 Whitespace
@@ -79,7 +79,7 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace
@@ -2303,7 +2303,7 @@ Punctuation
 Punctuation
 Whitespace
 Punctuation
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace

@@ -1,5 +1,5 @@
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Numeric

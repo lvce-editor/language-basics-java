@@ -87,7 +87,7 @@ Keyword
 Whitespace
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine

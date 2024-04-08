@@ -61,7 +61,7 @@ Class
 Numeric
 VariableName
 Numeric
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine
