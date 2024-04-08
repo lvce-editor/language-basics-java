@@ -1011,6 +1011,17 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Function
+Punctuation
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

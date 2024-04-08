@@ -648,7 +648,11 @@ KeywordReturn
 Whitespace
 KeywordThis
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation
@@ -1311,7 +1315,12 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Text

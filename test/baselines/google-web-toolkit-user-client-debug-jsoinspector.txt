@@ -278,6 +278,11 @@ KeywordReturn
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Whitespace
 Text
 NewLine
 Whitespace

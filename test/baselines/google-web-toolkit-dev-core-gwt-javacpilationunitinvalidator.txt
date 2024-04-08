@@ -929,7 +929,14 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

@@ -570,7 +570,12 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -1254,7 +1254,16 @@ Function
 Punctuation
 Class
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

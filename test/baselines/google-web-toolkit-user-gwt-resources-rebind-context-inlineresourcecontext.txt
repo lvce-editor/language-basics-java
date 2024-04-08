@@ -261,6 +261,10 @@ KeywordControl
 Whitespace
 Punctuation
 Punctuation
+Punctuation
+VariableName
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

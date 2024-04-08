@@ -256,7 +256,10 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 NewLine
 Whitespace
 Text

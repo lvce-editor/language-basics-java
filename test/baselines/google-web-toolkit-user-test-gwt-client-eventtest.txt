@@ -407,7 +407,9 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -1020,6 +1020,13 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+VariableName
+Whitespace
 Text
 NewLine
 Whitespace
@@ -1050,6 +1057,11 @@ KeywordControl
 Whitespace
 Punctuation
 VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 Whitespace
 Text
 NewLine

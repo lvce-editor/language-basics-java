@@ -663,6 +663,13 @@ Punctuation
 Numeric
 Punctuation
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Class
+Whitespace
 Text
 NewLine
 Whitespace
@@ -685,6 +692,13 @@ VariableName
 Punctuation
 Numeric
 Punctuation
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Class
 Whitespace
 Text
 NewLine

@@ -3973,7 +3973,13 @@ Punctuation
 VariableName
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Numeric
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

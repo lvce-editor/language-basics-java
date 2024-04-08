@@ -131,7 +131,10 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

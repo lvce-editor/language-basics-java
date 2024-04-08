@@ -7059,7 +7059,13 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Numeric
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

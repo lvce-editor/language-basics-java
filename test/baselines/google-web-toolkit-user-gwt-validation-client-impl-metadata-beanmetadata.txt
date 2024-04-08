@@ -180,6 +180,17 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
+Punctuation
+Punctuation
+VariableName
+Punctuation
+VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Whitespace
 Text
 NewLine
 Whitespace

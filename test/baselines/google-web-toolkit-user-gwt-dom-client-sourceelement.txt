@@ -337,6 +337,11 @@ KeywordReturn
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Whitespace
 Text
 NewLine
 Whitespace

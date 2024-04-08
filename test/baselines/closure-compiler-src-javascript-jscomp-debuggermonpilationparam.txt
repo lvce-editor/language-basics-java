@@ -962,7 +962,10 @@ VariableName
 Punctuation
 Function
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

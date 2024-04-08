@@ -1439,7 +1439,15 @@ Whitespace
 Numeric
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+String
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Comment

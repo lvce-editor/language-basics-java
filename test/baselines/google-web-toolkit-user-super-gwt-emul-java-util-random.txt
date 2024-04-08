@@ -829,7 +829,11 @@ Punctuation
 Numeric
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
 NewLine
 Whitespace
 Punctuation

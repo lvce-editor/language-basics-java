@@ -646,7 +646,13 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Function

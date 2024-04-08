@@ -1208,7 +1208,13 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 VariableName
@@ -1407,6 +1413,11 @@ Whitespace
 Punctuation
 Whitespace
 VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 Whitespace
 Text
 NewLine

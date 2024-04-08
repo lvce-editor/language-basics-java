@@ -1045,7 +1045,16 @@ Function
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

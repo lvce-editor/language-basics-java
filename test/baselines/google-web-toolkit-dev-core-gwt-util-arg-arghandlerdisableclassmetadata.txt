@@ -206,7 +206,10 @@ VariableName
 Punctuation
 Function
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 KeywordReturn
@@ -259,7 +262,13 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

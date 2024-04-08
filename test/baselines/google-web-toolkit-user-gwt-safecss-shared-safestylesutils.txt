@@ -3744,6 +3744,16 @@ NewLine
 Whitespace
 Keyword
 Whitespace
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+String
+Punctuation
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

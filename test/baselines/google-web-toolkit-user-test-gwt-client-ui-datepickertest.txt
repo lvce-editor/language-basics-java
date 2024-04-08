@@ -713,7 +713,14 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

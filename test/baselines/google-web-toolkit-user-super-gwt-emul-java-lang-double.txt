@@ -664,6 +664,12 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
+Punctuation
+Function
+Punctuation
+VariableName
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

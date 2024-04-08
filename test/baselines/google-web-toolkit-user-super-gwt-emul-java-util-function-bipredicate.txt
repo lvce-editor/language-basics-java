@@ -133,7 +133,15 @@ Whitespace
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Function
+Punctuation
+VariableName
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

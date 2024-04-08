@@ -206,7 +206,13 @@ Whitespace
 Punctuation
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Class
@@ -232,6 +238,11 @@ KeywordControl
 Whitespace
 Punctuation
 VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 Whitespace
 Text
 NewLine

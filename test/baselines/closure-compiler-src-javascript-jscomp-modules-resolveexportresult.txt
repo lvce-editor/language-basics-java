@@ -401,7 +401,13 @@ KeywordReturn
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -2752,7 +2752,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Function
@@ -2764,7 +2769,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Function

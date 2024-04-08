@@ -494,7 +494,16 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Punctuation
+Punctuation
+KeywordImport
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

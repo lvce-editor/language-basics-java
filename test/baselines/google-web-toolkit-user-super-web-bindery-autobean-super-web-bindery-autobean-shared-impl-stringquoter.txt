@@ -419,6 +419,13 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+String
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

@@ -348,6 +348,11 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Whitespace
 Text
 NewLine
 Whitespace

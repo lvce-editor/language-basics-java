@@ -478,7 +478,15 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Text
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Class

@@ -969,7 +969,16 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

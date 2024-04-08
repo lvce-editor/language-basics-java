@@ -183,7 +183,12 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Keyword
@@ -199,7 +204,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

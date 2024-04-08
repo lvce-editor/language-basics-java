@@ -102,7 +102,13 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 KeywordControl

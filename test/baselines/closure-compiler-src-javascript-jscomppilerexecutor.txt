@@ -943,7 +943,13 @@ Punctuation
 Numeric
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Function

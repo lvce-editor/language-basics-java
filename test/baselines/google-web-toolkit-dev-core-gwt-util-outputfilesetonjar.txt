@@ -390,7 +390,16 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+String
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Keyword

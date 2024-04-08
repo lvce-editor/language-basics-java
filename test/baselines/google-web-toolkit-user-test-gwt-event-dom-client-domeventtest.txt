@@ -2049,7 +2049,12 @@ String
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -391,7 +391,9 @@ Punctuation
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 KeywordControl

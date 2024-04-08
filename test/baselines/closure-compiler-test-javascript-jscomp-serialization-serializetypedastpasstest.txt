@@ -4200,7 +4200,12 @@ NewLine
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Numeric
+Punctuation
 NewLine
 Whitespace
 Punctuation
