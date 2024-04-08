@@ -85,7 +85,7 @@ Punctuation
 NewLine
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine

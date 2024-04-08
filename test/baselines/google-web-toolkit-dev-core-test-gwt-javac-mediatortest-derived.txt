@@ -67,7 +67,7 @@ KeywordImport
 Whitespace
 Class
 Punctuation
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine
@@ -93,11 +93,11 @@ KeywordImport
 Whitespace
 Class
 Punctuation
-VariableName
+Class
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Whitespace

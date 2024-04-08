@@ -34,7 +34,7 @@ NewLine
 Whitespace
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Punctuation
@@ -42,7 +42,7 @@ NewLine
 Whitespace
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Punctuation
@@ -52,7 +52,7 @@ Keyword
 Whitespace
 Attribute
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 Punctuation

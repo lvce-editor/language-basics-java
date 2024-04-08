@@ -60,7 +60,7 @@ Punctuation
 Comment
 Comment
 Comment
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation

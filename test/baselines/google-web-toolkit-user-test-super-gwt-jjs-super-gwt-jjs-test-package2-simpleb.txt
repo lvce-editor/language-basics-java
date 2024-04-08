@@ -60,14 +60,14 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine
 Whitespace
 KeywordControl
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation

@@ -1,6 +1,6 @@
 VariableName
 Whitespace
-VariableName
+Class
 Whitespace
 Punctuation
 NewLine
@@ -18,7 +18,7 @@ Numeric
 Punctuation
 VariableName
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Whitespace

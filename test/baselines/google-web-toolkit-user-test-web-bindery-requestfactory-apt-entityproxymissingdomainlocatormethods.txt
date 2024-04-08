@@ -140,7 +140,7 @@ Punctuation
 NewLine
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 KeywordImport
 Whitespace

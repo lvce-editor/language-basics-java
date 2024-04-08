@@ -85,7 +85,7 @@ KeywordImport
 Whitespace
 Class
 Punctuation
-VariableName
+Class
 Whitespace
 KeywordImport
 Whitespace
@@ -136,7 +136,7 @@ Keyword
 Whitespace
 Function
 Punctuation
-VariableName
+Class
 Whitespace
 VariableName
 Punctuation
@@ -162,7 +162,7 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-VariableName
+Class
 Whitespace
 Function
 Punctuation
