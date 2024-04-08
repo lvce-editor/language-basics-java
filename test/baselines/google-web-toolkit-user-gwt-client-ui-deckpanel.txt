@@ -2275,7 +2275,14 @@ Whitespace
 VariableName
 NewLine
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -1139,7 +1139,16 @@ Keyword
 Whitespace
 Class
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Class

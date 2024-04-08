@@ -1247,6 +1247,10 @@ String
 Punctuation
 Punctuation
 VariableName
+Punctuation
+VariableName
+Punctuation
+VariableName
 Text
 NewLine
 Whitespace

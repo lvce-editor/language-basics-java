@@ -561,6 +561,9 @@ Punctuation
 Punctuation
 String
 Punctuation
+Punctuation
+VariableName
+Punctuation
 Text
 NewLine
 Whitespace

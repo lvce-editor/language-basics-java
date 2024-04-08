@@ -327,7 +327,16 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
 NewLine
 Whitespace
 Punctuation

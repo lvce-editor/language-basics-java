@@ -1122,7 +1122,11 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+VariableName
+Punctuation
 NewLine
 Whitespace
 Comment

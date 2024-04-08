@@ -1110,7 +1110,13 @@ Punctuation
 Whitespace
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Function

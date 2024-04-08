@@ -1511,7 +1511,16 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl
@@ -6799,7 +6808,8 @@ Punctuation
 Whitespace
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName
@@ -7338,7 +7348,8 @@ Punctuation
 Whitespace
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName

@@ -1719,6 +1719,14 @@ Function
 Punctuation
 Punctuation
 Whitespace
+Punctuation
+Whitespace
+Numeric
+VariableName
+Numeric
+VariableName
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

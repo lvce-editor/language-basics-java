@@ -333,7 +333,16 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -854,7 +854,11 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName

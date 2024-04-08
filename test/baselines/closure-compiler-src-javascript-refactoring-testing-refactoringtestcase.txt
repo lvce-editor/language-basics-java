@@ -648,7 +648,10 @@ Whitespace
 Numeric
 NewLine
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
 NewLine
 Whitespace
 Punctuation

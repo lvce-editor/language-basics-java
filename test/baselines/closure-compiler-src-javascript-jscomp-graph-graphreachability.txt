@@ -490,7 +490,8 @@ Punctuation
 Whitespace
 Class
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

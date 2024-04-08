@@ -1030,6 +1030,8 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -1593,6 +1595,8 @@ Function
 Punctuation
 Punctuation
 Whitespace
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -1681,6 +1685,8 @@ Punctuation
 Punctuation
 NewLine
 Whitespace
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -2741,6 +2747,8 @@ Function
 Punctuation
 Punctuation
 Whitespace
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -2922,6 +2930,8 @@ Function
 Punctuation
 Punctuation
 Whitespace
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -3009,6 +3019,8 @@ VariableName
 Punctuation
 Function
 Punctuation
+Punctuation
+Whitespace
 Punctuation
 Whitespace
 Text

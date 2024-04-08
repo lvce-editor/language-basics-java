@@ -679,7 +679,8 @@ Punctuation
 Whitespace
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName
@@ -814,7 +815,8 @@ Punctuation
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

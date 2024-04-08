@@ -1680,7 +1680,14 @@ VariableName
 Punctuation
 NewLine
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Function
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

@@ -696,7 +696,14 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Keyword

@@ -172,7 +172,10 @@ Punctuation
 Numeric
 Punctuation
 Whitespace
-Text
+Punctuation
+Whitespace
+Numeric
+Punctuation
 NewLine
 Whitespace
 Punctuation

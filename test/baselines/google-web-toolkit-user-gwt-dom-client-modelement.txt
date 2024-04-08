@@ -398,7 +398,8 @@ Punctuation
 Whitespace
 LanguageConstant
 Whitespace
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation
