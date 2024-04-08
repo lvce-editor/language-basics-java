@@ -247,6 +247,9 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
+Punctuation
+VariableName
+Whitespace
 Text
 NewLine
 Whitespace

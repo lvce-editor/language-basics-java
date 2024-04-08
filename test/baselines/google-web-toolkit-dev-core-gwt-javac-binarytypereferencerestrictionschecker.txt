@@ -615,6 +615,11 @@ VariableName
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Whitespace
 Text
 NewLine
 Whitespace

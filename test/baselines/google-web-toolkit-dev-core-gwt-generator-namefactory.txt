@@ -242,7 +242,14 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName

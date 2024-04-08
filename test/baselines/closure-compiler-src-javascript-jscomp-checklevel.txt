@@ -103,7 +103,11 @@ KeywordReturn
 Whitespace
 KeywordThis
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

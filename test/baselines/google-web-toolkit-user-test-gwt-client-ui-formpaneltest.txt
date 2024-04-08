@@ -2547,7 +2547,15 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Comment

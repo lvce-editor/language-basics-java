@@ -322,7 +322,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+KeywordImport
 NewLine
 Whitespace
 Punctuation
@@ -608,7 +613,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+KeywordImport
 NewLine
 Whitespace
 Punctuation

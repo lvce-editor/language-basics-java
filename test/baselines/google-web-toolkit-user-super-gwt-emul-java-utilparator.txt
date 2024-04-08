@@ -255,6 +255,12 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

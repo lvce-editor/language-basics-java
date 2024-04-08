@@ -989,6 +989,9 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
+Punctuation
+VariableName
+Whitespace
 Text
 NewLine
 Whitespace

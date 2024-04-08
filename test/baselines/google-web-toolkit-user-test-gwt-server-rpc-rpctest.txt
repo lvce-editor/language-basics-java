@@ -5680,7 +5680,13 @@ String
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Numeric
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

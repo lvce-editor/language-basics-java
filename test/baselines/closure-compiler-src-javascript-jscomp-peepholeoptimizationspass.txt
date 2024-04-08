@@ -396,7 +396,13 @@ Whitespace
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 VariableName
@@ -448,7 +454,11 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl

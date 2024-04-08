@@ -541,7 +541,11 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
 NewLine
 NewLine
 Whitespace
@@ -602,7 +606,11 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Comment

@@ -458,6 +458,15 @@ Whitespace
 Text
 NewLine
 Whitespace
+Punctuation
+Function
+Punctuation
+VariableName
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -529,6 +538,11 @@ Whitespace
 KeywordReturn
 Whitespace
 VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 Whitespace
 Text
 NewLine

@@ -392,7 +392,14 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Numeric
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 VariableName

@@ -208,7 +208,15 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+Keyword
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordReturn

@@ -27474,6 +27474,7 @@ Whitespace
 VariableName
 Whitespace
 KeywordNew
+Punctuation
 Text
 NewLine
 Whitespace

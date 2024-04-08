@@ -303,6 +303,11 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
+Punctuation
+Function
+Punctuation
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace
@@ -377,6 +382,11 @@ Comment
 NewLine
 Whitespace
 KeywordReturn
+Whitespace
+Punctuation
+Function
+Punctuation
+Punctuation
 Whitespace
 Text
 NewLine
@@ -579,7 +589,9 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

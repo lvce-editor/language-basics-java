@@ -1993,6 +1993,14 @@ VariableName
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+VariableName
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

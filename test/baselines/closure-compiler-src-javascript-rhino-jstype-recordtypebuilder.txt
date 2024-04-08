@@ -255,7 +255,9 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

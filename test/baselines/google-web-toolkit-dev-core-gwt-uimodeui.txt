@@ -595,7 +595,11 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 VariableName
@@ -906,7 +910,11 @@ Punctuation
 VariableName
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 Punctuation

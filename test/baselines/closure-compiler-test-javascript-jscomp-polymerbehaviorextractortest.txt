@@ -3537,6 +3537,12 @@ String
 Punctuation
 Punctuation
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+Punctuation
+Numeric
+Whitespace
 Text
 NewLine
 Whitespace

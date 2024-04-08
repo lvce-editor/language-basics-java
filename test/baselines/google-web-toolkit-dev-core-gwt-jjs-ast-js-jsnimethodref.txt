@@ -271,7 +271,11 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 KeywordThis
@@ -406,7 +410,13 @@ NewLine
 Whitespace
 Keyword
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Keyword

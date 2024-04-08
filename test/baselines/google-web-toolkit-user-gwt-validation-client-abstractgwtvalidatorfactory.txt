@@ -469,6 +469,11 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Whitespace
 Text
 NewLine
 Whitespace
@@ -514,6 +519,11 @@ Punctuation
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Whitespace
 Text
 NewLine
 Whitespace
@@ -550,6 +560,11 @@ Whitespace
 Punctuation
 Whitespace
 VariableName
+Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 Whitespace
 Text
 NewLine

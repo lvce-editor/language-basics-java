@@ -575,7 +575,14 @@ String
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 KeywordReturn

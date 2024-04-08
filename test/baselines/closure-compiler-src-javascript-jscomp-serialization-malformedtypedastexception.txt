@@ -118,7 +118,11 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl
@@ -168,7 +172,11 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Class

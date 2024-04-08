@@ -1466,7 +1466,14 @@ Punctuation
 VariableName
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Numeric
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Function

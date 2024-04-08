@@ -761,7 +761,15 @@ Whitespace
 KeywordControl
 Whitespace
 Punctuation
-Text
+Punctuation
+KeywordThis
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Comment

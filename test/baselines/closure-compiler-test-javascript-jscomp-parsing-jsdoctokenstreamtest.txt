@@ -3509,7 +3509,13 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 Function

@@ -127,7 +127,15 @@ Whitespace
 Text
 NewLine
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+VariableName
+Punctuation
+VariableName
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl

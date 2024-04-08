@@ -804,7 +804,10 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
 NewLine
 Whitespace
 Text

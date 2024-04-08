@@ -948,6 +948,12 @@ Punctuation
 Punctuation
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

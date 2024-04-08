@@ -450,7 +450,11 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 KeywordThis
@@ -729,7 +733,11 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 KeywordThis

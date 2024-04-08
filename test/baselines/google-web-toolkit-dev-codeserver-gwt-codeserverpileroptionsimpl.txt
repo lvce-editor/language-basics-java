@@ -1573,7 +1573,11 @@ NewLine
 Whitespace
 KeywordReturn
 Whitespace
-Text
+Punctuation
+Function
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

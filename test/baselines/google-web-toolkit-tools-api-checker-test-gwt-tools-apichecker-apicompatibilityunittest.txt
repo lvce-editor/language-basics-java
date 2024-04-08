@@ -2571,7 +2571,11 @@ Whitespace
 VariableName
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 Keyword
@@ -2579,7 +2583,11 @@ Whitespace
 VariableName
 Numeric
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
 NewLine
 Whitespace
 Function

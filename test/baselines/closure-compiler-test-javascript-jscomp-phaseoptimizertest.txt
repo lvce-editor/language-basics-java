@@ -1887,7 +1887,9 @@ Whitespace
 Punctuation
 Function
 Punctuation
-Text
+Punctuation
+VariableName
+Punctuation
 NewLine
 Whitespace
 Punctuation

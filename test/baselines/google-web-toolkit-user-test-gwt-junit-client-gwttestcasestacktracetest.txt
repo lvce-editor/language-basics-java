@@ -1318,6 +1318,13 @@ VariableName
 Whitespace
 Punctuation
 Whitespace
+Punctuation
+VariableName
+Punctuation
+Function
+Punctuation
+Punctuation
+Whitespace
 Text
 NewLine
 Whitespace

@@ -122,7 +122,16 @@ Keyword
 Whitespace
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Class
+Whitespace
+Punctuation
+Whitespace
+Punctuation
+String
+Punctuation
 NewLine
 Whitespace
 Punctuation

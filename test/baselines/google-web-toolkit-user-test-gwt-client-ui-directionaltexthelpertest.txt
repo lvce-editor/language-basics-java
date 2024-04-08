@@ -1202,6 +1202,11 @@ KeywordReturn
 Whitespace
 VariableName
 Whitespace
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Whitespace
 Text
 NewLine
 Whitespace
@@ -1335,7 +1340,10 @@ Comment
 Comment
 Comment
 Whitespace
-Text
+Punctuation
+VariableName
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

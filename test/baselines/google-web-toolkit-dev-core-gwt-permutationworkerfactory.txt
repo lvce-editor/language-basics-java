@@ -2088,7 +2088,13 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Whitespace
+Punctuation
 NewLine
 Whitespace
 KeywordControl

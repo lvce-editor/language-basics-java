@@ -380,7 +380,12 @@ Whitespace
 Punctuation
 VariableName
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+LanguageConstant
+Punctuation
+Punctuation
 NewLine
 NewLine
 Whitespace

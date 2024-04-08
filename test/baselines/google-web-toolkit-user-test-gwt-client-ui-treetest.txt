@@ -3898,7 +3898,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Function
@@ -3914,7 +3919,12 @@ Function
 Punctuation
 Punctuation
 Whitespace
-Text
+Punctuation
+Punctuation
+Whitespace
+Numeric
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation
