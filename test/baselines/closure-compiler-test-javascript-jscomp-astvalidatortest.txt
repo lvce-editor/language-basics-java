@@ -11398,6 +11398,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -11411,6 +11413,10 @@ Whitespace
 Function
 Punctuation
 Punctuation
+String
+String
+String
+String
 String
 Punctuation
 Punctuation

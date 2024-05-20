@@ -70,8 +70,8 @@ const RE_VARIABLE_NAME_CLASS = /^[A-Z\_\$][a-zA-Z\_\$]+(?=\s+)/
 const RE_PUNCTUATION = /^[:,;\{\}\[\]\.=\(\)>\|\-\*\+\:\<\>\!\&]/
 const RE_QUOTE_SINGLE = /^'/
 const RE_QUOTE_DOUBLE = /^"/
-const RE_STRING_SINGLE_QUOTE_CONTENT = /^[^']+/
-const RE_STRING_DOUBLE_QUOTE_CONTENT = /^[^"]+/
+const RE_STRING_SINGLE_QUOTE_CONTENT = /^[^'\\]+/
+const RE_STRING_DOUBLE_QUOTE_CONTENT = /^[^"\\]+/
 const RE_NUMERIC = /^\d+/
 const RE_TRIPLE_DOUBLE_QUOTE = /^"""/
 const RE_STRING_TRIPLE_CONTENT = /^.+?(?="""|$)/s
@@ -85,6 +85,8 @@ const RE_ANYTHING_UNTIL_END = /^.+/s
 const RE_SLASH = /^\//
 const RE_FUNCTION_CALL_NAME = /^[\w]+(?=\s*(\())/
 const RE_ANYTHING = /^.+/u
+const RE_BACKSLASH = /^\\/
+const RE_STRING_ESCAPE = /^\\./
 
 export const hasArrayReturn = true
 
@@ -199,6 +201,12 @@ export const tokenizeLine = (line, lineState) => {
         } else if ((next = part.match(RE_STRING_SINGLE_QUOTE_CONTENT))) {
           token = TokenType.String
           state = State.InsideSingleQuoteString
+        } else if ((next = part.match(RE_STRING_ESCAPE))) {
+          token = TokenType.String
+          state = State.InsideSingleQuoteString
+        } else if ((next = part.match(RE_BACKSLASH))) {
+          token = TokenType.String
+          state = State.InsideSingleQuoteString
         } else {
           throw new Error('no')
         }
@@ -208,6 +216,12 @@ export const tokenizeLine = (line, lineState) => {
           token = TokenType.Punctuation
           state = State.TopLevelContent
         } else if ((next = part.match(RE_STRING_DOUBLE_QUOTE_CONTENT))) {
+          token = TokenType.String
+          state = State.InsideDoubleQuoteString
+        } else if ((next = part.match(RE_STRING_ESCAPE))) {
+          token = TokenType.String
+          state = State.InsideDoubleQuoteString
+        } else if ((next = part.match(RE_BACKSLASH))) {
           token = TokenType.String
           state = State.InsideDoubleQuoteString
         } else {

@@ -5432,6 +5432,9 @@ KeywordReturn
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -5445,6 +5448,9 @@ Punctuation
 NewLine
 Whitespace
 Punctuation
+String
+String
+String
 String
 Punctuation
 Whitespace

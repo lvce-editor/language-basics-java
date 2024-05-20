@@ -501,6 +501,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -528,6 +529,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation
@@ -588,6 +590,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -644,6 +647,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -671,6 +675,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation

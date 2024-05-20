@@ -507,6 +507,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -610,6 +612,8 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation
@@ -776,6 +780,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -912,6 +918,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -1029,6 +1037,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -1079,6 +1089,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Whitespace
@@ -1111,6 +1123,8 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation

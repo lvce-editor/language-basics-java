@@ -234,11 +234,12 @@ Attribute
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
 Punctuation
-VariableName
-Text
 NewLine
 Whitespace
 Class

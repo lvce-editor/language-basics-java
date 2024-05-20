@@ -201,6 +201,7 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -516,8 +517,15 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
+String
+String
+String
 Punctuation
-Text
+Punctuation
 NewLine
 Whitespace
 VariableName

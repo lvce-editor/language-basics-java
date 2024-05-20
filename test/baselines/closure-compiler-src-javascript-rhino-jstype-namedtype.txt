@@ -2660,6 +2660,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -2704,6 +2705,7 @@ Punctuation
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Whitespace

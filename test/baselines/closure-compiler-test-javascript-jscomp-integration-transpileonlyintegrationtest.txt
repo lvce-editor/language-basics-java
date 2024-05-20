@@ -453,8 +453,10 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
-Text
 NewLine
 Whitespace
 Punctuation
@@ -464,9 +466,11 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Text
 NewLine
 Whitespace
 Punctuation

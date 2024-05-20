@@ -178,6 +178,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -202,6 +203,7 @@ Numeric
 Punctuation
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Punctuation

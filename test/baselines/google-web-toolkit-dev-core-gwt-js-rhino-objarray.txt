@@ -3187,6 +3187,8 @@ VariableName
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 VariableName

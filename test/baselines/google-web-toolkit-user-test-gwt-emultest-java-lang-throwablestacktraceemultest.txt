@@ -283,6 +283,7 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -486,6 +487,7 @@ Whitespace
 Function
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Whitespace

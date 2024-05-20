@@ -1008,6 +1008,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -1234,6 +1235,7 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Punctuation

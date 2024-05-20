@@ -261,12 +261,6 @@ NewLine
 Whitespace
 Punctuation
 String
-Punctuation
-NewLine
-Whitespace
-Punctuation
-Whitespace
-Punctuation
 String
 Punctuation
 NewLine
@@ -295,6 +289,14 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
+Punctuation
+NewLine
+Whitespace
+Punctuation
+Whitespace
+Punctuation
+String
 String
 Punctuation
 NewLine

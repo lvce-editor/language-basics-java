@@ -488,6 +488,10 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
 NewLine
@@ -511,6 +515,12 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
+String
+String
 Punctuation
 Punctuation
 NewLine
@@ -554,6 +564,8 @@ Whitespace
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation
@@ -731,6 +743,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation

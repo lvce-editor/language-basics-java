@@ -1371,12 +1371,14 @@ NewLine
 Whitespace
 Punctuation
 String
+String
 Punctuation
 NewLine
 Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 NewLine
@@ -1412,6 +1414,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 NewLine
@@ -2156,6 +2159,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 NewLine
 Whitespace
@@ -2331,6 +2335,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Whitespace
@@ -2649,6 +2654,8 @@ Whitespace
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Whitespace

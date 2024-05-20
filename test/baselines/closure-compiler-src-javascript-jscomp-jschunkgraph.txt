@@ -1762,6 +1762,9 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
 Punctuation
 Punctuation
 NewLine
@@ -1774,6 +1777,7 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Punctuation
@@ -1809,6 +1813,9 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
 Punctuation
 Punctuation
 NewLine
@@ -1821,6 +1828,7 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Punctuation

@@ -238,8 +238,16 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-Text
+Punctuation
+Whitespace
+VariableName
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

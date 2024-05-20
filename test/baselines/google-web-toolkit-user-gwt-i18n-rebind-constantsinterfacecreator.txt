@@ -279,6 +279,9 @@ KeywordReturn
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
 NewLine
 Whitespace

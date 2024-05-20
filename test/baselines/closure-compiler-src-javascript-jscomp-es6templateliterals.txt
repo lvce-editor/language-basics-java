@@ -335,8 +335,11 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
-Text
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

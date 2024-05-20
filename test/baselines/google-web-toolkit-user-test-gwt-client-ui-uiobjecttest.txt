@@ -2315,6 +2315,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -3067,6 +3069,7 @@ Punctuation
 NewLine
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation

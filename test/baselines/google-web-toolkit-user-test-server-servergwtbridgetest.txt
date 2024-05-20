@@ -1905,6 +1905,7 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation

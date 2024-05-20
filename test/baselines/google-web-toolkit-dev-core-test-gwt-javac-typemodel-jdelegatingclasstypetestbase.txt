@@ -240,6 +240,7 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -254,6 +255,9 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
+String
+String
 String
 Punctuation
 NewLine

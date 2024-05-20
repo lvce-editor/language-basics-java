@@ -1223,11 +1223,13 @@ NewLine
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Whitespace

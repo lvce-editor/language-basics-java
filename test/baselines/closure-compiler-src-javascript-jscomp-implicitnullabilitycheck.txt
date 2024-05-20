@@ -236,6 +236,7 @@ NewLine
 Whitespace
 Punctuation
 String
+String
 Punctuation
 NewLine
 Whitespace
@@ -275,6 +276,7 @@ Punctuation
 NewLine
 Whitespace
 Punctuation
+String
 String
 Punctuation
 NewLine
