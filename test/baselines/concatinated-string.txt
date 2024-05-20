@@ -1,0 +1,12 @@
+Whitespace
+Class
+Whitespace
+VariableName
+Whitespace
+Punctuation
+Whitespace
+Punctuation
+String
+Punctuation
+Numeric
+Text
