@@ -907,6 +907,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -939,6 +941,8 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation

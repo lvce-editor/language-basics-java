@@ -929,6 +929,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -1190,6 +1192,7 @@ Punctuation
 NewLine
 Whitespace
 Punctuation
+String
 String
 Punctuation
 NewLine
@@ -1233,6 +1236,13 @@ Comment
 NewLine
 Whitespace
 Punctuation
+String
+String
+String
+String
+String
+String
+String
 String
 Punctuation
 NewLine

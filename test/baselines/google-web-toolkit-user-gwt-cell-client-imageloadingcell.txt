@@ -425,11 +425,12 @@ Attribute
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
-Numeric
-Punctuation
-Text
 NewLine
 Whitespace
 Class

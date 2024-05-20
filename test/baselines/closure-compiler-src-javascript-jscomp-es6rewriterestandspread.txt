@@ -2822,11 +2822,12 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
 Punctuation
 Punctuation
-Punctuation
-Text
 NewLine
 Whitespace
 Punctuation

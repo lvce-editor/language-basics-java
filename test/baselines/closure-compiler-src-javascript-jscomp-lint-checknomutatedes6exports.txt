@@ -291,11 +291,11 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-Punctuation
-Numeric
-Punctuation
-Text
 NewLine
 Whitespace
 Punctuation

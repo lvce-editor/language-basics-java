@@ -967,6 +967,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Whitespace
 Punctuation

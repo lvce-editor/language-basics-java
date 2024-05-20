@@ -1789,9 +1789,14 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Text
+Punctuation
+Whitespace
+Comment
 NewLine
 Whitespace
 Punctuation

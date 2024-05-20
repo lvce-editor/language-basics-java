@@ -32,8 +32,15 @@ Punctuation
 String
 Punctuation
 Punctuation
-String
 NewLine
 Punctuation
-Text
+String
+Punctuation
+Whitespace
+Punctuation
+Whitespace
+Punctuation
+String
+Punctuation
+Punctuation
 NewLine

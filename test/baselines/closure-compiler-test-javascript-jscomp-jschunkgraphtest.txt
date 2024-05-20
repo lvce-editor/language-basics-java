@@ -1388,6 +1388,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -1594,6 +1596,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -5242,9 +5246,13 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Function
@@ -9965,6 +9973,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 NewLine
@@ -10003,6 +10012,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation

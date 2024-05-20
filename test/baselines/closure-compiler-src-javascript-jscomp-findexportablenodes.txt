@@ -194,6 +194,7 @@ NewLine
 Whitespace
 Punctuation
 String
+String
 Punctuation
 NewLine
 Whitespace

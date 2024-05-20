@@ -615,6 +615,9 @@ KeywordReturn
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
 Whitespace
 Punctuation

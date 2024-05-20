@@ -454,6 +454,10 @@ Keyword
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -2798,6 +2802,7 @@ KeywordReturn
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -2807,6 +2812,7 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
 String
 Punctuation
 Punctuation
@@ -5654,6 +5660,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -5752,6 +5760,8 @@ Whitespace
 Function
 Punctuation
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation
@@ -6146,6 +6156,8 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -6785,6 +6797,10 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -6813,6 +6829,10 @@ Punctuation
 NewLine
 Whitespace
 Punctuation
+String
+String
+String
+String
 String
 Punctuation
 Punctuation
@@ -6852,11 +6872,19 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
 NewLine
 Whitespace
 Punctuation
+String
+String
+String
+String
 String
 Punctuation
 Punctuation

@@ -473,10 +473,11 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Numeric
-Text
 NewLine
 Whitespace
 Comment

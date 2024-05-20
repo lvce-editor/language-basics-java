@@ -386,9 +386,14 @@ Function
 Punctuation
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Text
+Punctuation
+Punctuation
+Punctuation
 NewLine
 Whitespace
 Punctuation

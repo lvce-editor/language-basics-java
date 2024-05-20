@@ -425,9 +425,12 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
 Punctuation
-VariableName
-Text
+Punctuation
+Punctuation
 NewLine
 Whitespace
 KeywordThis

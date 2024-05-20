@@ -220,6 +220,8 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -428,6 +430,8 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
 Punctuation
 Whitespace
 Punctuation
@@ -531,6 +535,8 @@ Whitespace
 Punctuation
 Whitespace
 Punctuation
+String
+String
 String
 Punctuation
 Whitespace

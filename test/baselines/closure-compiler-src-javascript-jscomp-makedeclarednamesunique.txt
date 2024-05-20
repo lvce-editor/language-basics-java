@@ -3369,8 +3369,12 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-Text
+Punctuation
 NewLine
 Whitespace
 VariableName

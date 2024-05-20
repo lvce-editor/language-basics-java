@@ -708,11 +708,13 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
 Punctuation
-Numeric
 Punctuation
-Text
 NewLine
 NewLine
 Whitespace
@@ -2356,6 +2358,7 @@ Punctuation
 Function
 Punctuation
 Punctuation
+String
 String
 Punctuation
 Punctuation

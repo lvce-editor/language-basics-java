@@ -578,6 +578,12 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -614,6 +620,10 @@ Punctuation
 Punctuation
 Whitespace
 Punctuation
+String
+String
+String
+String
 String
 Punctuation
 Punctuation
@@ -713,6 +723,7 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -752,6 +763,8 @@ Punctuation
 Punctuation
 Whitespace
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation
@@ -908,6 +921,8 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
 Punctuation
 Punctuation
 Punctuation
@@ -953,6 +968,8 @@ Punctuation
 Punctuation
 Whitespace
 Punctuation
+String
+String
 String
 Punctuation
 Punctuation

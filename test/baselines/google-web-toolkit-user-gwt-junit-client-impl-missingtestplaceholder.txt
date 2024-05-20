@@ -142,6 +142,7 @@ Function
 Punctuation
 Punctuation
 String
+String
 Punctuation
 NewLine
 Whitespace

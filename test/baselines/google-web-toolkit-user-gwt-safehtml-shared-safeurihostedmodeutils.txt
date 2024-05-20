@@ -178,11 +178,13 @@ Punctuation
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-Punctuation
-Punctuation
-Punctuation
-Text
+Whitespace
+Comment
 NewLine
 Whitespace
 Punctuation

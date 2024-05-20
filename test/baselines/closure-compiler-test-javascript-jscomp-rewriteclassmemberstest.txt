@@ -6076,9 +6076,12 @@ NewLine
 Whitespace
 Punctuation
 String
+String
+String
+String
+String
 Punctuation
-VariableName
-Text
+Punctuation
 NewLine
 Whitespace
 Punctuation
