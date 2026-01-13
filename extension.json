@@ -5,9 +5,12 @@
   "languages": [
     {
       "id": "java",
-      "extensions": [".java"],
+      "extensions": [
+        ".java"
+      ],
       "tokenize": "src/tokenizeJava.js",
       "configuration": "./languageConfiguration.json"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-java"
 }
