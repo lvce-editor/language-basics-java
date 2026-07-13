@@ -23,6 +23,5 @@
     "execa": "^9.6.1",
     "prettier": "^3.8.0",
     "typescript": "^6.0.0"
-  },
-  "test-tokenize": {}
+  }
 }

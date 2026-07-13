@@ -104,7 +104,7 @@ const writeTestFiles = async (allTests) => {
   for (const test of allTests) {
     await writeFile(
       `${root}/test/cases/${test.testName}.java`,
-      test.testContent
+      test.testContent,
     )
   }
 }
@@ -119,10 +119,10 @@ const main = async () => {
   await cp(
     `${root}/.tmp/atom-language-java/spec`,
     `${root}/.tmp/atom-language-java-cases`,
-    { recursive: true }
+    { recursive: true },
   )
   const allTests = await getAllTests(
-    `${root}/.tmp/atom-language-java-cases/java-spec.coffee`
+    `${root}/.tmp/atom-language-java-cases/java-spec.coffee`,
   )
   await writeTestFiles(allTests)
 }

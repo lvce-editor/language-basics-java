@@ -76,7 +76,7 @@ const writeTestFiles = async (allTests) => {
   for (const test of allTests) {
     await writeFile(
       `${root}/test/cases/${test.testName}.java`,
-      test.testContent
+      test.testContent,
     )
   }
 }
@@ -91,7 +91,7 @@ const main = async () => {
   await cp(
     `${root}/.tmp/code-mirror-java/test`,
     `${root}/.tmp/code-mirror-cases`,
-    { recursive: true }
+    { recursive: true },
   )
   await rm(`${root}/.tmp/code-mirror-cases/test-java.js`)
   const allTests = await getAllTests(`${root}/.tmp/code-mirror-cases`)
